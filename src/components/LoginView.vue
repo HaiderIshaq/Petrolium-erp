@@ -31,10 +31,7 @@
         <div class="flex flex-col items-center justify-center mb-7">
           <!-- Stylized Geometric Logo Icon -->
           <div class="w-20 h-20 mb-3 flex items-center justify-center">
-            <svg width="76" height="76" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M20 68 L42 26 L62 48 L82 12 L82 38 L62 74 L42 52 L20 68 Z" fill="#ffffff" />
-              <path d="M36 84 L52 58 L68 74 L88 42 L88 62 L68 90 L52 76 L36 84 Z" fill="#01aef0" />
-            </svg>
+            
           </div>
 
           <div class="text-3xl font-black tracking-tight text-white uppercase leading-none drop-shadow-lg">
@@ -84,9 +81,7 @@
 
       <!-- CENTERED BOTTOM WIDGET (V | ⊙) -->
       <div class="absolute bottom-3 left-1/2 -translate-x-1/2 z-20 bg-slate-900 text-white px-4 py-1 rounded-full flex items-center gap-2 text-[11px] font-bold shadow-md">
-        <span>V</span>
-        <span class="text-slate-600">|</span>
-        <span class="w-2 h-2 rounded-full bg-[#01aef0] inline-block animate-pulse"></span>
+        
       </div>
 
     </div>
