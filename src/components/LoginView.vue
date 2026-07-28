@@ -75,7 +75,7 @@
       <!-- FOOTER COPYRIGHT -->
       <div class="relative z-10 text-center pt-6">
         <div class="text-xs font-semibold text-slate-300">
-          © 2026 Pure Petroleum ERP. All rights reserved. TEST
+          © 2026 Pure Petroleum ERP. All rights reserved.
         </div>
       </div>
 
